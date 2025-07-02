@@ -1,0 +1,23 @@
+{
+  "name": "bot-aquafitness-",
+  "version": "1.0.0",
+  "description": "bot da academia aquafitness",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurgneto/Bot-quafitness-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurgneto/Bot-quafitness-/issues"
+  },
+  "homepage": "https://github.com/arthurgneto/Bot-quafitness-#readme",
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.37.2"
+  }
+}
